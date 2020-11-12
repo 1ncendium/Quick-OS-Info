@@ -23,6 +23,7 @@ Download the repository from https://github.com/1ncendium/Quick-OS-Info/archive/
 
 Linux :
 ```
+chmod +x quickosinfo.py
 python3 quickosinfo.py
 ```
 Windows (Interactive mode) :
