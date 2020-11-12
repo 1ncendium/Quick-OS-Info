@@ -1,0 +1,15 @@
+index.php
+.sql
+.dbf
+.bak
+.dat
+.db
+password
+secret
+classified
+encrypted
+users
+pass
+account
+money
+finance
